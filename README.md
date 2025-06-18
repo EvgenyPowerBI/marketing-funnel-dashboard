@@ -38,3 +38,6 @@ Power BI Dashboard to analyze lead to lead conversion and marketing channel perf
 Харьянов Евгений  
 [Telegram: @evgenysf13](https://t.me/evgenysf13)  
 [Email: wega2002@mail.ru](mailto:wega2002@mail.ru)
+
+![Dashboard Preview](dashboard_preview.png)
+
